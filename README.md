@@ -29,6 +29,12 @@ The main way I checked to see if I had correctly refactored the code I was worki
 Some of my tools are as follow:
 <ul>
   <li>Maven Dependency Checks</li>
-  <li>OWASP industry se</li>
+  <li>OWASP industry security frameworks</li>
+  <li>SSL/TLS certificates</li>
 </ul>
+
+All of these can be helpful going forward in my ever growing journey of secure coding. 
+
 # Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
+I feel somethings from this course I can take away is my knowledge of vulnerbilities and how to access and understand their meaning. Knowing how to complete a dependency check and view all the known vulnerabilities within a software is a major component in handling security and maintaing secure coding practices. I believe Project 2 shows this excellently and I would happily share it with future employers. 
